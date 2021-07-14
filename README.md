@@ -1,4 +1,4 @@
-# try-webrtc-go
+# explore-webrtc-go
 
 Create a free 1:1 video chat application with Twilio WebRTC Go.
 
